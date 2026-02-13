@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/splintercat",
     "maintainers": [
       {
@@ -18,227 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "splintercat",
     "name": "Splintercat",
     "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Fearsome Critter",
+    "subcategory": "Lumberjack Tall Tale",
     "tags": [
-      "fearsome-critter",
-      "lumberjack-folklore",
-      "north-america",
-      "flying",
-      "absurd"
+      "folklore",
+      "mythology"
     ],
-    "status": "folklore",
+    "status": "documented",
     "description": {
-      "summary": "A cat-like creature from lumberjack folklore that flies headfirst into trees at high speed to knock out honey, raccoons, and other food, splintering the trees in the process.",
+      "summary": "The Splintercat is a fearsome critter from American lumberjack folklore, described as a flying cat-like creature with an incredibly tough forehead.",
       "full": "The Splintercat is a fearsome critter from American lumberjack folklore, described as a flying cat-like creature with an incredibly tough forehead. According to the tall tales, it hunts by flying headfirst at tremendous speed into trees, smashing them to splinters. The impact knocks out raccoons, bee hives, and other food sources, which the dazed but unharmed Splintercat then consumes. The creature was said to be responsible for broken and splintered trees found in the forest. Like all fearsome critters, it served as entertainment in lumber camps and as a humorous explanation for natural phenomena (damaged trees from storms, disease, or woodpeckers)."
     },
     "etymology": {
-      "origin": "American lumberjack folklore, late 1800s to early 1900s",
-      "meaning": "Named for its habit of splintering trees by flying into them headfirst",
-      "first_use": "Late 19th century"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Fearsome Critter",
-      "subtype": "Lumberjack Tall Tale",
-      "variant": "American Folklore"
+      "type": "Lumberjack Tall Tale",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "hidebehind",
-        "name": "Hidebehind",
-        "relationship": "fellow_fearsome_critter",
-        "description": "Another lumberjack tall tale creature"
-      },
-      {
-        "id": "axehandle-hound",
-        "name": "Axehandle Hound",
-        "relationship": "fellow_fearsome_critter",
-        "description": "Fellow fearsome critter from lumber camps"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "features": [
-        {
-          "feature": "Appearance",
-          "description": "Cat-like creature with powerful, muscular build",
-          "frequency": "always"
-        },
-        {
-          "feature": "Forehead",
-          "description": "Incredibly tough, reinforced skull capable of smashing trees",
-          "frequency": "always"
-        },
-        {
-          "feature": "Build",
-          "description": "Powerful and sturdy, built to withstand tremendous impacts",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Feline-like with exceptionally reinforced skull structure and powerful musculature"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "High-speed flight",
-        "description": "Can fly at tremendous velocity toward trees",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Impact resistance",
-        "description": "Withstands smashing headfirst into large trees without injury",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Tree destruction",
-        "description": "Shatters and splinters trees with headfirst impacts",
-        "frequency": "always",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "any time",
-      "disposition": "neutral to wildlife, dangerous to trees",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "forests",
-        "logging areas",
-        "areas with large trees"
-      ],
-      "diet": "Dazed raccoons, honey from destroyed bee hives, other food knocked from trees",
-      "patterns": [
-        "Flies headfirst into trees at high speed",
-        "Splinters and destroys trees",
-        "Eats food knocked loose by impact",
-        "Remains unharmed despite violent collisions"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "American lumberjack folklore from northern lumber camps of late 1800s and early 1900s.",
-      "continents": ["North America"],
-      "countries": ["United States", "Canada"],
-      "regions": [
-        "Northern lumber camps",
-        "Great Lakes region",
-        "Pacific Northwest",
-        "Wherever lumberjacks told tall tales"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Late 1800s",
+        "date": "Unknown",
         "circa": true,
-        "source": "American lumberjack oral tradition"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1880s-1930s",
-          "description": "Golden age of lumberjack folklore and fearsome critters"
-        }
-      ]
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "American lumberjack folklore tradition. Created as entertainment and humorous explanation for damaged trees.",
-      "earliest_accounts": "Late 19th century oral traditions from lumber camps",
-      "folklore_connections": "Part of the broader 'fearsome critters' tradition of American frontier humor"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1880s-1900s",
-        "event": "Splintercat tales spread through lumber camps",
-        "significance": "Becomes part of standard lumberjack folklore",
-        "source": "Oral tradition"
-      },
-      {
-        "date": "1910",
-        "event": "Documented in William T. Cox's book",
-        "significance": "Written preservation of oral tradition",
-        "source": "Fearsome Creatures of the Lumberwoods"
-      }
-    ],
-    "modern_era": "The Splintercat remains a memorable example of fearsome critter absurdity and lumberjack humor."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Lumberjack tall tales",
-        "Campfire stories",
-        "Greenhorn entertainment"
-      ],
-      "stories": [
-        "Explanations for splintered and broken trees",
-        "Tales of Splintercats mistaking lumber camps for trees",
-        "Stories of the distinctive crashing sounds"
-      ],
-      "beliefs": "Never taken seriously; understood as humorous tall tale"
-    },
-    "purpose": {
-      "entertainment": "Told around lumber camp fires for amusement",
-      "explanation": "Provided humorous explanation for damaged trees (actually caused by storms, disease, woodpeckers, or rot)",
-      "hazing": "Used to amuse or trick greenhorns",
-      "cultural": "Part of occupational folklore tradition"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Fearsome critter compilations",
-        "American folklore collections"
-      ],
-      "other": [
-        "Example of absurd occupational folklore"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "theories": {
-    "folklore_analysis": [
-      {
-        "name": "Natural Phenomenon Explanation",
-        "description": "Splintercat provided humorous explanation for trees damaged by storms, lightning, disease, or woodpecker activity",
-        "evidence_cited": ["Damaged trees common in forests", "Need for explanatory folklore"]
-      },
-      {
-        "name": "Occupational Absurdity",
-        "description": "Represents the intentionally absurd nature of fearsome critter tradition - meant to be ridiculous",
-        "evidence_cited": ["Impossible physics", "Humorous exaggeration"]
-      }
-    ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "cox-1910",
-      "type": "book",
-      "title": "Fearsome Creatures of the Lumberwoods",
-      "authors": ["William T. Cox"],
-      "publication": "Judd & Detweiler",
-      "date": "1910"
-    },
-    {
-      "id": "tryon-1939",
-      "type": "book",
-      "title": "Fearsome Critters",
-      "authors": ["Henry H. Tryon"],
-      "publication": "Idlewild Press",
-      "date": "1939"
-    }
-  ]
+  "sources": []
 }
